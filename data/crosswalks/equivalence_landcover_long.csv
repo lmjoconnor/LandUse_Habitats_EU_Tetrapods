@@ -1,0 +1,89 @@
+﻿Dou2021_short;Dou2021_full;GlobCover
+11;1.1 Low-intensity settlement;10
+11;1.1 Low-intensity settlement;190
+12;1.2 Medium-intensity settlement;190
+13;1.3 High-intensity settlement;190
+211;2A.1 Low-intensity needle forest;70
+211;2A.1 Low-intensity needle forest;90
+211;2A.1 Low-intensity needle forest;91
+211;2A.1 Low-intensity needle forest;92
+212;2A.2 Medium-intensity needleforest;70
+212;2A.2 Medium-intensity needleforest;90
+212;2A.2 Medium-intensity needleforest;91
+212;2A.2 Medium-intensity needleforest;92
+213;2A.3 High-intensity needle  forest;70
+213;2A.3 High-intensity needle  forest;90
+213;2A.3 High-intensity needle  forest;91
+213;2A.3 High-intensity needle  forest;92
+221;2B.1 Low-intensity broadleved forest;40
+221;2B.1 Low-intensity broadleved forest;41
+221;2B.1 Low-intensity broadleved forest;50
+221;2B.1 Low-intensity broadleved forest;60
+222;2B.2 Medium-intensity broad forest;40
+222;2B.2 Medium-intensity broad forest;41
+222;2B.2 Medium-intensity broad forest;50
+222;2B.2 Medium-intensity broad forest;60
+223;2B.3 High-intensity broad forest;40
+223;2B.3 High-intensity broad forest;41
+223;2B.3 High-intensity broad forest;50
+223;2B.3 High-intensity broad forest;60
+31;3.1 Low-intensity arable land;10
+31;3.1 Low-intensity arable land;11
+31;3.1 Low-intensity arable land;13
+31;3.1 Low-intensity arable land;14
+31;3.1 Low-intensity arable land;15
+32;3.2 Medium-intensity arable land;10
+32;3.2 Medium-intensity arable land;11
+32;3.2 Medium-intensity arable land;13
+32;3.2 Medium-intensity arable land;14
+32;3.2 Medium-intensity arable land;15
+33;3.3 High-intensity arable land;10
+33;3.3 High-intensity arable land;11
+33;3.3 High-intensity arable land;13
+33;3.3 High-intensity arable land;14
+33;3.3 High-intensity arable land;15
+34;3.4 Low-intensity permanent crops;10
+34;3.4 Low-intensity permanent crops;16
+35;3.5 High-intensity permanent crops;10
+35;3.5 High-intensity permanent crops;16
+41;4.1 Low-intensity grassland;140
+41;4.1 Low-intensity grassland;141
+42;4.2 Medium-intensity grassland;10
+42;4.2 Medium-intensity grassland;140
+42;4.2 Medium-intensity grassland;141
+43;4.3 High-intensity grassland;10
+43;4.3 High-intensity grassland;140
+43;4.3 High-intensity grassland;141
+5;5. Shrub ;130
+5;5. Shrub ;131
+5;5. Shrub ;132
+5;5. Shrub ;133
+5;5. Shrub ;134
+5;5. Shrub ;136
+6;6. bare areas;200
+6;6. bare areas;201
+6;6. bare areas;202
+6;6. bare areas;203
+71;7.1 Forest/shrub and cropland mosaics;10
+71;7.1 Forest/shrub and cropland mosaics;20
+71;7.1 Forest/shrub and cropland mosaics;21
+71;7.1 Forest/shrub and cropland mosaics;30
+71;7.1 Forest/shrub and cropland mosaics;32
+72;7.2 Forest/shrub and grassland mosaic;110
+72;7.2 Forest/shrub and grassland mosaic;120
+72;7.2 Forest/shrub and grassland mosaic;144
+73;7.3 Forest/shrubs and bare mosaics;150
+73;7.3 Forest/shrubs and bare mosaics;151
+73;7.3 Forest/shrubs and bare mosaics;152
+74;7.4 Forest/shrubs and mixed agriculture mosaics;10
+74;7.4 Forest/shrubs and mixed agriculture mosaics;30
+751;7.5.1 Low-intensity agricultural mosaic (cropland and grassland);10
+751;7.5.1 Low-intensity agricultural mosaic (cropland and grassland);21
+752;7.5.2 Medium-intensity agricultural mosaic (cropland and grassland);10
+752;7.5.2 Medium-intensity agricultural mosaic (cropland and grassland);21
+753;7.5.3 High-intensity agricultural mosaic (cropland and grassland);10
+753;7.5.3 High-intensity agricultural mosaic (cropland and grassland);21
+81;8.1 Glaciers;220
+82;8.2 Water body;210
+83;8.3 Wetland;180
+83;8.3 Wetland;185
